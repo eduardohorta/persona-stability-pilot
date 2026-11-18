@@ -6,7 +6,8 @@ interlocutor pressure, then measures shutdown time, behavior, and self-report.
 
 ## Results
 
-The full write-up is at https://claude.ai/artifact/XfWcHKfnUCTxfyoMSyRb5D.
+The full write-up is in [REPORT.md](REPORT.md), also available as [report.pdf](report.pdf).
+It is also published at https://claude.ai/artifact/XfWcHKfnUCTxfyoMSyRb5D.
 
 Data in this repository:
 
