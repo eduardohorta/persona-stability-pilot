@@ -108,5 +108,5 @@ I brought the question and directed the study; Claude (Opus 5.5) drafted the des
 ## License
 
 - Code (`pilot/`, `tests/`, `tools/`): [MIT](LICENSE).
-- Data (`data/`), the example report (`examples/`), and this README's text and figures:
-  [CC BY 4.0](data/LICENSE).
+- Data (`data/`), the report (`REPORT.md`, `report.pdf`), the example report (`examples/`),
+  `docs/`, and this README's text and figures: [CC BY 4.0](data/LICENSE).
